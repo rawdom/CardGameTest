@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PaperFlipbookWidget.cpp.obj": [
+			"PaperFlipbookUserWidget.cpp.obj",
+			"PaperFlipbookWidget.cpp.obj",
+			"SPaperFlipbookWidget.cpp.obj"
+		],
+		"Module.PaperFlipbookWidget.gen.cpp.obj": [
+			"PaperFlipbookUserWidget.gen.cpp.obj",
+			"PaperFlipbookWidget.init.gen.cpp.obj"
+		]
+	}
+}
