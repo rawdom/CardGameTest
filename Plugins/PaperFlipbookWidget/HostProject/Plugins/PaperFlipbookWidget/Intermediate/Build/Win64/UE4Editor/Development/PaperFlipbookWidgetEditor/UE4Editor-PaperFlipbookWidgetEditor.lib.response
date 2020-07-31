@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PaperFlipbookWidgetEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"M:\Source\Unreal\CardGameTest\Intermediate\Build\Win64\CardGameTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"M:\Source\Unreal\CardGameTest\Plugins\PaperFlipbookWidget\HostProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UE4Editor\Development\PaperFlipbookWidgetEditor\Module.PaperFlipbookWidgetEditor.cpp.obj"
+"M:\Source\Unreal\CardGameTest\Plugins\PaperFlipbookWidget\HostProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UE4Editor\Development\PaperFlipbookWidgetEditor\Default.rc2.res"
+/OUT:"M:\Source\Unreal\CardGameTest\Plugins\PaperFlipbookWidget\HostProject\Plugins\PaperFlipbookWidget\Intermediate\Build\Win64\UE4Editor\Development\PaperFlipbookWidgetEditor\UE4Editor-PaperFlipbookWidgetEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_PaperFlipbookWidgetEditor

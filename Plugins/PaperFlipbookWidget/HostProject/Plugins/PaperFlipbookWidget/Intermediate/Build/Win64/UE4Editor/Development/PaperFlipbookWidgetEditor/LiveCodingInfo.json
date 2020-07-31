@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PaperFlipbookWidgetEditor.cpp.obj": [
+			"PaperFlipbookWidgetEditor.cpp.obj",
+			"PaperFlipbookWidgetEditorStyle.cpp.obj"
+		]
+	}
+}
